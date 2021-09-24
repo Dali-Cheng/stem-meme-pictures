@@ -1,2 +1,4 @@
 # stem-meme-pictures
- Funny pictures for STEM (especially physics) students.
+ Funny images for STEM (especially physics) students, created for sharing with my friends.
+ May contain stereotypes and other offensive opinions, which should not be encouraged.
+ Collected from the Internet, and copyrights belong to the original authors.
